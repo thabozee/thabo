@@ -37,11 +37,10 @@ const Body = () => {
         <div className="text-lg font-bold underline">I Love</div>
         <div className="w-4/5 text-base ml-11">
           <p>
-            My wife❤️, My daughter, My family, Movies, tech news,International
-            Politics, everything tech,
-            TypeScript,ReactJS,NextJS,TailwindCSS,NodeJS,DevOps,Cloud Computing,
-            UI/UX Design, Automation using Uipath(c#) or Selenium(Python),
-            Python...
+            My wife❤️, My daughter, My family, Movies, Tech news,International
+            Politics, everything tech, TypeScript, ReactJS, NextJS, TailwindCSS,
+            NodeJS,DevOps, Cloud Computing, UI/UX Design, Automation using
+            Uipath(c#) or Selenium(Python), Python...
           </p>
         </div>
       </div>
