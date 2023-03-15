@@ -4,6 +4,7 @@ import Head from "next/head";
 import Script from "next/script";
 
 export default function App({ Component, pageProps }: AppProps) {
+  
   return (
     <>
       <Script
@@ -14,6 +15,7 @@ export default function App({ Component, pageProps }: AppProps) {
         src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"
         noModule
       />
+      
       <Component {...pageProps} />
     </>
   );

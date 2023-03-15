@@ -1,4 +1,7 @@
 import React from "react";
+import CallIcon from "@/components/images/call";
+import LinkedinIcon from "@/components/images/linkedin";
+import CompassIcon from "@/components/images/compass";
 
 const Body = () => {
   return (
@@ -45,7 +48,7 @@ const Body = () => {
         <div className="w-4/5 text-base ml-11">
           <div className="flex gap-2 items-center">
             <span className="text-2xl">
-              <ion-icon name="call-outline"></ion-icon>
+              <CallIcon height={24} width={24} />
             </span>
             <div className="q">
               <div className="1">(+266) 5996 6490</div>
@@ -54,7 +57,7 @@ const Body = () => {
           </div>
           <div className="flex gap-2 items-center">
             <span className="text-2xl">
-              <ion-icon name="compass-outline"></ion-icon>
+              <CompassIcon height={24} width={24} />
             </span>
             <div className="q">
               <div className="1">Maseru</div>
@@ -63,7 +66,7 @@ const Body = () => {
           </div>
           <div className="flex gap-2 items-center">
             <span className="text-2xl">
-              <ion-icon name="logo-linkedin"></ion-icon>
+              <LinkedinIcon height={24} width={24} />
             </span>
             <div className="">www.linkedin.com/in/thabo-khabele-57b559135</div>
           </div>
