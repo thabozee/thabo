@@ -10,10 +10,10 @@ const Profile = () => {
           className="w-32 h-32 object-cover border-4 border-orange-500"
         />
       </div>
-      <div className=""> 
+      <div className="">
         <div className="lg:text-3xl font-bold text-2xl ">Thabo Khabele</div>
         <div className="text-base">
-          Passionate Father and A Software Engineer
+          A Passionate Father and A Software Engineer
         </div>
       </div>
     </div>

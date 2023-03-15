@@ -10,10 +10,10 @@ const Body = () => {
         <div className="text-lg font-bold underline">Work</div>
         <div className="w-4/5 text-base ml-11">
           <p>
-            I like to code things from scratch, and enjoy bringing ideas to life
-            in the browser. Responsive websites built for an optimal user
-            experience that achieves business goals. Make website fast, easy to
-            find, and reach the widest audience possible.
+            I like to code things from scratch, I enjoy building computational
+            solutions. Responsive websites built for an optimal user experience
+            that achieves business goals,Building Robust APIs using latest
+            technologies.
           </p>
         </div>
       </div>
@@ -23,7 +23,7 @@ const Body = () => {
         <div className="w-4/5 text-base ml-11">
           <div className="d">19XX Born in Maseru, Makoanyane Hospital</div>
           <div className="d">
-            2015 Student at National University of Lesotho, Studying B.sc.
+            2015 Student at the National University of Lesotho, Studying B.SC.
             Computer Science
           </div>
           <div className="d">
@@ -37,8 +37,11 @@ const Body = () => {
         <div className="text-lg font-bold underline">I Love</div>
         <div className="w-4/5 text-base ml-11">
           <p>
-            My wife❤️, My daughter, My family, Movies, tech new, everything
-            tech, ReactJS,Nextjs T3 stack,Tailwind CSS, NodeJS
+            My wife❤️, My daughter, My family, Movies, tech news,International
+            Politics, everything tech,
+            TypeScript,ReactJS,NextJS,TailwindCSS,NodeJS,DevOps,Cloud Computing,
+            UI/UX Design, Automation using Uipath(c#) or Selenium(Python),
+            Python...
           </p>
         </div>
       </div>
