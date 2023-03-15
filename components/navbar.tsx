@@ -1,11 +1,11 @@
-import React, { useState } from "react";
+import { useState } from "react";
 
-const navbar = () => {
+const Navbar = () => {
   let Links = [
     { name: "Home", link: "/" },
     { name: "Blog", link: "#" },
     { name: "Video", link: "#" },
-    { name: "GitHub", link: "#" },
+    { name: "GitHub", link: "https://github.com/thabozee" },
     { name: "Contact-Me", link: "#" },
   ];
 
@@ -48,4 +48,4 @@ const navbar = () => {
   );
 };
 
-export default navbar;
+export default Navbar;
