@@ -21,15 +21,15 @@ const Body = () => {
       <div className="flex content-center flex-col flex-wrap mb-5">
         <div className="text-lg font-bold underline">Bio</div>
         <div className="w-4/5 text-base ml-11">
-          <div className="d">19XX Born in Maseru, Makoanyane Hospital</div>
-          <div className="d">
+          <div className="mb-2">19XX Born in Maseru, Makoanyane Hospital</div>
+          <div className="mb-2">
             2015 Student at the National University of Lesotho, Studying B.SC.
             Computer Science
           </div>
-          <div className="d">
+          <div className="mb-2">
             2021 Graduate Trainee Software Engineer at Vodacom Lesotho
           </div>
-          <div className="d">2023 Still @Vodacom Lesotho</div>
+          <div className="mb-2">2023 Still @Vodacom Lesotho</div>
         </div>
       </div>
 
